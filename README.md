@@ -9,3 +9,7 @@ This program is built to pull standard formatted project plans built in Excel in
 
 ## Why the Project is Useful
 This elements the User from creating their own manual To-Do list with all Project tasks listing.  This will save the User time which could be used on more important elements of their Project.
+
+## Who Maintains and Contributes to the Project
+Maintained and contributed to by Mary Reyes.
+
