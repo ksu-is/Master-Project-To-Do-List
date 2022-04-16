@@ -16,6 +16,7 @@
 
 - Watch additional online tutorials. DONE
 -   * Reach how to get the Excel file loaded into my repository.  DONE
+-   * Watch Intro to DA with Pandas by Prof Sims 
 - Load additional software needed. i.e. Panda
 - Load at least two Excel Project plans into your C drive. DONE
 - Create the plan of data needed from Excel sheet.  DONE
