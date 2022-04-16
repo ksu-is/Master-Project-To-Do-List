@@ -1,9 +1,7 @@
-# Importing libraries
-import numpy as np    
+# Importing libraries 
 import pandas as pd
-import xlrd
-import xdrlib, sys
 import os
-import openpyxl
-from openpyxl import load_workbook
+filename = '2022-0000 Sample PM Tool.xlsx'
+filepath = r'c:\Users\mary\Downloads\'
+file=os.path.join(filepath,filename)
 
