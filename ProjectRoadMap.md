@@ -1,23 +1,24 @@
 # Sprint 1
 
-- Create Projectroadmap.md file and add tasks/goals to accomplish.
-- Select project topic.
-- Update Teams Projects Spreadsheet.
-- Obtain approval of project.
-- Join KSU-IS on Github from Professor email link.
-- Create repository.
-- Research for online tutorials.
-- Update Teams Projects Spreadsheet with URL information.
-- Create Readme.md file with specifics on the project topic.
-- Search for similar code in GitHub.
-- Evaluate similiar code. (Created Word document with various codes found. Found initial code on how to set code to use Pandas and import the Excel file in.)
+- Create Projectroadmap.md file and add tasks/goals to accomplish. DONE
+- Select project topic. DONE
+- Update Teams Projects Spreadsheet. DONE
+- Obtain approval of project. DONE
+- Join KSU-IS on Github from Professor email link. DONE
+- Create repository. DONE
+- Research for online tutorials.  DONE
+- Update Teams Projects Spreadsheet with URL information. DONE
+- Create Readme.md file with specifics on the project topic.  DONE
+- Search for similar code in GitHub. DONE
+- Evaluate similiar code. (Created Word document with various codes found. Found initial code on how to set code to use Pandas and import the Excel file in.) DONE
 
 # Sprint 2
 
-- Watch additional online tutorials.
+- Watch additional online tutorials. DONE
+-   * Reach how to get the Excel file loaded into my repository.  DONE
 - Load additional software needed. i.e. Panda
-- Load at least two Excel Project plans into your C drive.
-- Create the plan of data needed from Excel sheet.
+- Load at least two Excel Project plans into your C drive. DONE
+- Create the plan of data needed from Excel sheet.  DONE
 - Start working on the code.
 - Test code throughout progression.
 
