@@ -6,7 +6,7 @@ import xdrlib, sys
 import os
 import openpyxl
 filename = '2022-0000 Sample PM Tool.xlsx'
-filepath = r'c:\Users\mary\Downloads\'
+filepath = r'c:\Users\mary\Downloads'
 file=os.path.join(filepath,filename)
 df=pd.read_excel(file)
 df
