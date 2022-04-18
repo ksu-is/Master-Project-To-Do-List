@@ -16,11 +16,12 @@
 
 - Watch additional online tutorials. DONE
 -   * Reach how to get the Excel file loaded into my repository.  DONE
--   * Watch Intro to DA with Pandas by Prof Sims 
+-   * Watch Intro to DA with Pandas by Prof Sims STARTED
+-   * Watch Linkedin Training - Using Python with Excel  STARTED
 - Load additional software needed. i.e. Panda
 - Load at least two Excel Project plans into your C drive. DONE
 - Create the plan of data needed from Excel sheet.  DONE
-- Start working on the code.
+- Start working on the code.  STARTED
 - Test code throughout progression.
 
 # Sprint 3
