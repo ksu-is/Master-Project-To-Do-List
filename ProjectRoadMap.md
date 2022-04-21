@@ -22,6 +22,7 @@
 - Load at least two Excel Project plans into your C drive. DONE
 - Create the plan of data needed from Excel sheet.  DONE
 - Start working on the code.  STARTED
+-  * Note: I moved my code from code.py to Main Code.ipynb
 - Test code throughout progression. Done
 
 # Sprint 3
