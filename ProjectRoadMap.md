@@ -27,11 +27,11 @@
 
 # Sprint 3
 
-- Review other online help topics to assist in coding.
-- Make updates and finalize code.
+- Review other online help topics to assist in coding. DONE
+- Make updates and finalize code. DONE
 - Test the code and document issues.
-- Create PowerPoint Presentation.
-- Setup Teams Meeting to present Presentation.
+- Create PowerPoint Presentation. DONE
+- Setup Teams Meeting to present Presentation. DONE
 
 # Final Presentation
 - Review PowerPoint slides and make adjustments.
